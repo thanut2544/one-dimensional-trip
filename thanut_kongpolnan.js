@@ -39,7 +39,7 @@ function minEnergy(start, shops, stations, target) {
 
 function runTests() {
   const result1 = minEnergy(2, [4, 9], [3, 6, 8], 7);
-  console.log("Test 1: Expected 3 -> Got:", result1);
+  console.log("Test Got:", result1);
 }
 
 runTests();
